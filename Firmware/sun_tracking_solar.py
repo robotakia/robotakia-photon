@@ -230,7 +230,7 @@ if not isDemo:
 else:
     normValues = [1.0, 1.54, 1.1, 1.1] # measured indoors
     sensorThreshold = 7
-    SLEEP_TIME = 500
+    SLEEP_TIME = 200
 
 
 # === System init ===
